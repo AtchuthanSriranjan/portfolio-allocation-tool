@@ -1,0 +1,196 @@
+{
+  "source": {
+    "name": "Vanguard Return Book EU",
+    "note": "Values are annualised returns for the stated holding period. Educational use only."
+  },
+  "horizons": [
+    {
+      "years": 1,
+      "allocations": [
+        {
+          "equity": 1.0,
+          "bond": 0.0,
+          "worst": -0.43,
+          "average": 0.073,
+          "best": 0.529
+        },
+        {
+          "equity": 0.8,
+          "bond": 0.2,
+          "worst": -0.35,
+          "average": 0.07,
+          "best": 0.435
+        },
+        {
+          "equity": 0.6,
+          "bond": 0.4,
+          "worst": -0.27,
+          "average": 0.066,
+          "best": 0.342
+        },
+        {
+          "equity": 0.4,
+          "bond": 0.6,
+          "worst": -0.19,
+          "average": 0.059,
+          "best": 0.248
+        },
+        {
+          "equity": 0.2,
+          "bond": 0.8,
+          "worst": -0.11,
+          "average": 0.05,
+          "best": 0.155
+        },
+        {
+          "equity": 0.0,
+          "bond": 1.0,
+          "worst": -0.03,
+          "average": 0.04,
+          "best": 0.066
+        }
+      ]
+    },
+    {
+      "years": 3,
+      "allocations": [
+        {
+          "equity": 1.0,
+          "bond": 0.0,
+          "worst": -0.14,
+          "average": 0.068,
+          "best": 0.2
+        },
+        {
+          "equity": 0.8,
+          "bond": 0.2,
+          "worst": -0.108,
+          "average": 0.064,
+          "best": 0.178
+        },
+        {
+          "equity": 0.6,
+          "bond": 0.4,
+          "worst": -0.078,
+          "average": 0.06,
+          "best": 0.156
+        },
+        {
+          "equity": 0.4,
+          "bond": 0.6,
+          "worst": -0.05,
+          "average": 0.055,
+          "best": 0.134
+        },
+        {
+          "equity": 0.2,
+          "bond": 0.8,
+          "worst": -0.025,
+          "average": 0.048,
+          "best": 0.112
+        },
+        {
+          "equity": 0.0,
+          "bond": 1.0,
+          "worst": -0.002,
+          "average": 0.04,
+          "best": 0.09
+        }
+      ]
+    },
+    {
+      "years": 5,
+      "allocations": [
+        {
+          "equity": 1.0,
+          "bond": 0.0,
+          "worst": -0.02,
+          "average": 0.069,
+          "best": 0.15
+        },
+        {
+          "equity": 0.8,
+          "bond": 0.2,
+          "worst": -0.01,
+          "average": 0.064,
+          "best": 0.132
+        },
+        {
+          "equity": 0.6,
+          "bond": 0.4,
+          "worst": 0.0,
+          "average": 0.059,
+          "best": 0.115
+        },
+        {
+          "equity": 0.4,
+          "bond": 0.6,
+          "worst": 0.007,
+          "average": 0.053,
+          "best": 0.099
+        },
+        {
+          "equity": 0.2,
+          "bond": 0.8,
+          "worst": 0.012,
+          "average": 0.046,
+          "best": 0.085
+        },
+        {
+          "equity": 0.0,
+          "bond": 1.0,
+          "worst": 0.015,
+          "average": 0.039,
+          "best": 0.071
+        }
+      ]
+    },
+    {
+      "years": 10,
+      "allocations": [
+        {
+          "equity": 1.0,
+          "bond": 0.0,
+          "worst": 0.03,
+          "average": 0.071,
+          "best": 0.12
+        },
+        {
+          "equity": 0.8,
+          "bond": 0.2,
+          "worst": 0.031,
+          "average": 0.066,
+          "best": 0.11
+        },
+        {
+          "equity": 0.6,
+          "bond": 0.4,
+          "worst": 0.031,
+          "average": 0.06,
+          "best": 0.099
+        },
+        {
+          "equity": 0.4,
+          "bond": 0.6,
+          "worst": 0.031,
+          "average": 0.054,
+          "best": 0.088
+        },
+        {
+          "equity": 0.2,
+          "bond": 0.8,
+          "worst": 0.03,
+          "average": 0.047,
+          "best": 0.077
+        },
+        {
+          "equity": 0.0,
+          "bond": 1.0,
+          "worst": 0.028,
+          "average": 0.04,
+          "best": 0.066
+        }
+      ]
+    }
+  ]
+}
